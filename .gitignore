@@ -1,2 +1,5 @@
 .eunit
 ebin/*.beam
+# rebar 3
+_build/
+rebar.lock
